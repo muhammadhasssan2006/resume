@@ -31,7 +31,7 @@
     vertical-align: middle !important;
     margin-top: 120px !important;
 }
-.experiance-section p{
+.prof-exp{
     text-align: right;
 }
 .experiance-text{
@@ -111,5 +111,15 @@ p{
 @media only screen and (max-width: 768px) {
   .edu-text {
     margin-left: 30px !important;
+  }
+}
+
+
+
+/* small screens (mobiles) */
+@media only screen and (max-width: 768px) {
+  .experiance-section {
+    width: 75% !important;
+
   }
 }
