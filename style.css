@@ -79,3 +79,37 @@ p{
 .skills{
     text-align: left;
 }
+
+
+
+/* medium screens (tablets) */
+@media only screen and (max-width: 1024px) {
+  .experiance-text {
+    margin-left: 50px !important;
+  }
+}
+
+/* small screens (mobiles) */
+@media only screen and (max-width: 768px) {
+  .experiance-text {
+    margin-left: 35px !important;
+  }
+}
+
+
+
+
+
+/* medium screens (tablets) */
+@media only screen and (max-width: 1024px) {
+  .edu-text {
+    margin-left: 50px !important;
+  }
+}
+
+/* small screens (mobiles) */
+@media only screen and (max-width: 768px) {
+  .edu-text {
+    margin-left: 30px !important;
+  }
+}
