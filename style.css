@@ -1,0 +1,81 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* left layout start  */
+.left-Section{
+    /* max-width: 8%; */
+    width: 90% !important;
+    height: 300px !important;
+    background-color: #136402;
+    border-top-left-radius: 150px;
+    border-bottom-left-radius: 150px;
+}
+.img-section{
+    width: 250px;
+}
+.img-section img{
+    border-radius: 50%;
+}
+.text-section{
+    text-align: left;
+}
+
+.experiance-section{
+    background-color: #136402;
+    width: 70% !important;
+    height: 40px !important;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+    vertical-align: middle !important;
+    margin-top: 120px !important;
+}
+.experiance-section p{
+    text-align: right;
+}
+.experiance-text{
+    margin-top: 70px !important;
+    margin-left: 130px !important;
+    line-height: 30px;
+    
+}
+.educatioin-section{
+    background-color: #136402;
+    width: 40% !important;
+    height: 40px !important;
+    border-top-right-radius: 150px;
+    border-bottom-right-radius: 150px;
+    vertical-align: middle !important;
+    margin-top: 120px !important;
+}
+.educatioin-section p{
+    text-align: right;
+
+}
+.edu-text{
+     margin-top: 40px !important;
+    margin-left: 130px !important;
+    line-height: 30px;
+}
+/* left layout end  */
+
+
+
+/* right layout start  */
+.right-section{
+    background-color: #06763caf;
+}
+.right-text-top{
+    height:300px;
+    background-color: #136402;
+    text-align: left;
+
+}
+p{
+    text-align: left;
+}
+
+.skills{
+    text-align: left;
+}
